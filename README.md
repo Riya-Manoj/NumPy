@@ -4,8 +4,8 @@ This repository contains my NumPy assignment, where I analyzed the Auto MPG data
 
 ## Contents
 - **auto-mpg.csv** → Dataset used for analysis  
-- **numpy_assignment.ipynb** → Python code for preprocessing and analysis  
-- **numpy_assignment.pptx** → Presentation slides  
+- **Numpy.ipynb** → Python code for preprocessing and analysis  
+- **Numpy-Presentation.pptx** → Presentation slides  
 
 ## Tools & Libraries
 - Python  
